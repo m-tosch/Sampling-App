@@ -13,12 +13,12 @@ own Android app.
 ## Screenshots
 Main screen. A function is entered here
 <p align="center">
-	<img src="img/screenshot1.png" width="350">
+	<img src="img/screenshot1.png" width="300">
 </p>
 
-Frequency plot of sin(2*Pi*t) sampled with 5Hz, first order interpolation 
+Frequency plot of sin(2$\Pi$t) sampled with 5Hz, first order interpolation 
 <p align="center">
-	<img src="img/screenshot2.jpg" width="500">
+	<img src="img/screenshot2.jpg" width="575">
 </p>
 
 
