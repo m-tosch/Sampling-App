@@ -7,7 +7,7 @@ the phase response can be viewed for both the original and the sampled signal. F
 the input, three interpolations are available: zero order, first order and si-interpolation.
 
 ## Installation
-Either download and install the .apk in this repository or download the source code and embedd it in your 
+Either download and install the .apk (requires at least Android 4.1) in this repository or download the source code and embedd it in your 
 own Android app.
 
 ## Screenshots
