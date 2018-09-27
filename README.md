@@ -16,7 +16,7 @@ Main screen. A function is entered here
 	<img src="img/screenshot1.png" width="300">
 </p>
 
-Frequency plot of sin(2$\pi$t) sampled with 5Hz, first order interpolation 
+Frequency plot of sin(2$$\pi$$t) sampled with 5Hz, first order interpolation 
 <p align="center">
 	<img src="img/screenshot2.jpg" width="575">
 </p>
